@@ -1,0 +1,4 @@
+Row,secular change (degrees/rev),average rate of change(degrees/s)
+expected,0.0666385558300058,1.10313007619034e-05
+simulation,0.0668762817052766,1.10706537400155e-05
+difference,0.000237725875270781,3.93529781120789e-08
